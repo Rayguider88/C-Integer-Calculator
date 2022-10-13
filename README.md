@@ -3,7 +3,7 @@ A rudimentary calculator created with C++, specifically for using Integer variab
 
 
 #include <iostream>
-Using namspace std;
+Using namespace std;
 Int main ()
 
 {
